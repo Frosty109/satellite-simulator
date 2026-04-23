@@ -10,6 +10,7 @@ decision, or technology encountered during development.
 | [orbital-mechanics.md](orbital-mechanics.md) | TLEs, SGP4, coordinate frames, time systems |
 | [wasm-and-emscripten.md](wasm-and-emscripten.md) | WebAssembly, Emscripten, C++↔JS bridge |
 | [cesiumjs.md](cesiumjs.md) | CesiumJS, CZML, globe rendering |
+| [docker.md](docker.md) | Docker setup, Dockerfile, docker-compose, volumes |
 
 ---
 
