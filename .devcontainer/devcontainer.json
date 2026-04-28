@@ -1,0 +1,17 @@
+{
+  "name": "Satellite Simulator",
+  "build": {
+    "dockerfile": "../Dockerfile"
+  },
+  "remoteUser": "root",
+  "forwardPorts": [5173],
+  "postCreateCommand": "npm install",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint"
+      ]
+    }
+  }
+}
