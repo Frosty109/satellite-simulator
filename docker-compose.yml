@@ -8,3 +8,5 @@ services:
       - /app/node_modules
     working_dir: /app
     command: sleep infinity
+    env_file:
+      - .env
