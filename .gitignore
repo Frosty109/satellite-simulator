@@ -3,3 +3,8 @@ node_modules/
 dist/
 wasm/
 build/
+.claude/
+CLAUDE.md
+issues/
+sessions/
+learning/
